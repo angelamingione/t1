@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_mycustomapplication_securitymanagement" name="sn_dd_mycustomapplication_securitymanagement">0aa1bc8153210300b471ddeeff7b1216</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-29 21:58:54</sys_created_on>
+        <sys_id>06a1bc8153210300b471ddeeff7b1218</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0aa1bc8153210300b471ddeeff7b1216</sys_name>
+        <sys_package display_value="My Custom Application" source="sn_my_custom_appli">3c5ed69853250300b471ddeeff7b12cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom Application">3c5ed69853250300b471ddeeff7b12cc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_06a1bc8153210300b471ddeeff7b1218</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-29 21:58:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
